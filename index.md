@@ -10,7 +10,7 @@ My GitHub page is https://github.com/IMarcRodriguezI.
 
 * Lab 11
 
-     Lab ‘11,’ part ‘1,’ was my favorite because of the introduction to object oriented programming. 
+     Lab 11, part 1, was my favorite because of the introduction to object oriented programming. 
      This is the case due to this concept being easier to understand and perform than
      procedural programming. Within this lab’s section, I learned about how to create classes
      and its constructors. Furthermore, I also learned about encapsulation. Where data
@@ -28,7 +28,7 @@ My GitHub page is https://github.com/IMarcRodriguezI.
 
 * Lab 7
 
-     Lab ‘7,’ part ‘1,’ was my favorite because it introduced complex boolean expressions placed 
+     Lab 7, part 1, was my favorite because it introduced complex boolean expressions placed 
      into each if statement’s parameters. I learned about not just boolean expressions, but 
      also learning how to deal with multiple boolean statements combined into one. I had to
      document every scenario of each of my written complex boolean expressions, and adjust
